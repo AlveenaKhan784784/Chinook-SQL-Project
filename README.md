@@ -12,7 +12,7 @@
 ## How to Use
 
 1. Download the Chinook database in MySQL format:  
-   🔗 https://github.com/lerocha/chinook-database (check `/ChinookDatabase/DataSources/` for MySQL scripts)
+🔗 https://github.com/lerocha/chinook-database (check `/ChinookDatabase/DataSources/` for MySQL scripts)
 
 2. Import the Chinook database into your MySQL server using a tool like MySQL Workbench or phpMyAdmin.
 
