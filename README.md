@@ -1,6 +1,6 @@
 # Chinook-SQL-Project
 
-#### This project explores the Chinook music store database using SQL queries written and executed in **MySQL**. The Chinook database simulates a digital media store with tables like `Customer`, `Invoice`, `Track`, and `Genre`, making it a great resource for learning and practicing SQL queries for data analysis.
+#### This project explores the Chinook music store database using SQL queries written and executed in **MySQL**. The Chinook database simulates a digital media store with tables like `Customer`, `Invoice`, `Track`, `Genre` etc, making it a great resource for learning and practicing SQL queries for data analysis.
 
 ## Files Included
 
@@ -36,7 +36,7 @@
 
 - **Database**: MySQL
 - **Tool**: MySQL Workbench
-- **Skills**: SELECT, JOIN, GROUP BY, ORDER BY, LIMIT, Date formatting
+- **Skills**: SELECT, Aggregate Functions, JOIN, GROUP BY, ORDER BY, LIMIT, Date formatting
 
 ## Conclusion
 Through this project, I improved my understanding of SQL operations using real-world-like data. It helped me practice writing aggregation queries, joins, and ordering logic to extract meaningful insights from relational databases. The Chinook database offered a structured and practical way to simulate business scenarios for data querying.
