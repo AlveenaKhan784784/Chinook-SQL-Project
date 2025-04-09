@@ -1,6 +1,10 @@
+# Chinook SQL Project
+#### This project involves analyzing the Chinook database using MySQL to extract business insights through SQL queries. The Chinook database represents a digital music store that includes data on customers, invoices, employees, tracks, media types, and more. By running SQL queries on this relational database, I practiced a wide range of data analysis skills including aggregations, joins, subqueries, and date-based filtering. The goal is to simulate real-world business questions and interpret data to support decision-making in areas like customer behavior, sales trends, and revenue performance.
+
+
 # Chinook-SQL-Project-1
 
-#### This project explores the Chinook music store database using SQL queries written and executed in **MySQL**. The Chinook database simulates a digital media store with tables like `Customer`, `Invoice`, `Track`, `Genre` etc, making it a great resource for learning and practicing SQL queries for data analysis.
+##### This project explores the Chinook music store database using SQL queries written and executed in **MySQL**. The Chinook database simulates a digital media store with tables like `Customer`, `Invoice`, `Track`, `Genre` etc, making it a great resource for learning and practicing SQL queries for data analysis.
 
 ## Files Included
 
@@ -41,7 +45,7 @@
 
 # Chinook-SQL-Project-2
 
-#### This project continues exploring the Chinook music store database using SQL queries written and executed in MySQL. The Chinook database replicates a digital media store environment with tables like Customer, Invoice, InvoiceLine, Track, Employee, and Genre—making it an ideal dataset for real-world SQL data analysis scenarios.
+##### This project continues exploring the Chinook music store database using SQL queries written and executed in MySQL. The Chinook database replicates a digital media store environment with tables like Customer, Invoice, InvoiceLine, Track, Employee, and Genre—making it an ideal dataset for real-world SQL data analysis scenarios.
 
 ## 📄 Files Included
 
