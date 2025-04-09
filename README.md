@@ -1,4 +1,4 @@
-# Chinook-SQL-Project
+# Chinook-SQL-Project-1
 
 #### This project explores the Chinook music store database using SQL queries written and executed in **MySQL**. The Chinook database simulates a digital media store with tables like `Customer`, `Invoice`, `Track`, `Genre` etc, making it a great resource for learning and practicing SQL queries for data analysis.
 
@@ -38,7 +38,54 @@
 - **Tool**: MySQL Workbench
 - **Skills**: SELECT, Aggregate Functions, JOIN, GROUP BY, ORDER BY, LIMIT, Date formatting
 
-## Conclusion
-Through this project, I improved my understanding of SQL operations using real-world-like data. It helped me practice writing aggregation queries, joins, and ordering logic to extract meaningful insights from relational databases. The Chinook database offered a structured and practical way to simulate business scenarios for data querying.
 
+# Chinook-SQL-Project-2
+
+#### This project continues exploring the Chinook music store database using SQL queries written and executed in MySQL. The Chinook database replicates a digital media store environment with tables like Customer, Invoice, InvoiceLine, Track, Employee, and Genre—making it an ideal dataset for real-world SQL data analysis scenarios.
+
+## 📄 Files Included
+
+| File Name             | Description                                      |
+|----------------------|--------------------------------------------------|
+| `chinook_queries2.sql`       | Contains all SQL queries executed using MySQL         |
+| `queries2_results.sql`       | Markdown-formatted results/output of each query       |
+
+## 💡 How to Use
+
+1. Download the Chinook database in MySQL format:  
+   🔗 [Chinook Database GitHub](https://github.com/lerocha/chinook-database)  
+   *(Check `ChinookDatabase/DataSources/` for MySQL scripts)*
+
+2. Import the database into your MySQL server using a tool like **MySQL Workbench** or **phpMyAdmin**.
+
+3. Open `chinook_queries2.sql` and run the queries.
+
+4. View the results in `queries2_results.sql` or execute your own versions for practice.
+
+## ❓ Questions Explored
+
+- What is the total revenue by each media type?
+
+- Which invoice has the lowest total amount?
+
+- How many invoices were created in each year?
+
+- What is the average purchase amount by country?
+
+- How does the revenue vary by billing city?
+
+- How many customers are supported by each employee?
+
+- Which customers have made purchases in multiple months?
+
+- Which customers have the highest number of tracks purchased?
+
+## 🛠 Tools & Skills Used
+
+- **Database:** MySQL  
+- **Tool:** MySQL Workbench  
+- **Skills:** `SELECT`, `JOIN`, `GROUP BY`, `ORDER BY`, `LIMIT`, `HAVING`, aggregate functions, subqueries, date functions
+
+## Conclusion
+Through this project, I practiced real-world SQL queries using the Chinook database. Version 1 builds a strong foundation with common queries, while Version 2 dives into deeper analysis like revenue trends and customer behavior. This two-part approach helped reinforce both basic and advanced SQL skills using a structured, business-oriented dataset.
 
