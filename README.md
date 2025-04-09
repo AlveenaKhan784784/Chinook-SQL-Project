@@ -65,19 +65,12 @@
 ## ❓ Questions Explored
 
 - What is the total revenue by each media type?
-
 - Which invoice has the lowest total amount?
-
 - How many invoices were created in each year?
-
 - What is the average purchase amount by country?
-
 - How does the revenue vary by billing city?
-
 - How many customers are supported by each employee?
-
 - Which customers have made purchases in multiple months?
-
 - Which customers have the highest number of tracks purchased?
 
 ## 🛠 Tools & Skills Used
@@ -87,5 +80,5 @@
 - **Skills:** `SELECT`, `JOIN`, `GROUP BY`, `ORDER BY`, `LIMIT`, `HAVING`, aggregate functions, subqueries, date functions
 
 ## Conclusion
-Through this project, I practiced real-world SQL queries using the Chinook database. Version 1 builds a strong foundation with common queries, while Version 2 dives into deeper analysis like revenue trends and customer behavior. This two-part approach helped reinforce both basic and advanced SQL skills using a structured, business-oriented dataset.
+Through this project, I practiced real-world SQL queries using the Chinook database. Project 1 builds a strong foundation with common queries, while Project 2 dives into deeper analysis like revenue trends and customer behavior. This two-part approach helped reinforce both basic and advanced SQL skills using a structured, business-oriented dataset.
 
